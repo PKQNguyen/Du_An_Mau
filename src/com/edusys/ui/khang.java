@@ -11,4 +11,5 @@ package com.edusys.ui;
  */
 public class khang {
     String test2;
+    Strig test 3;
 }
