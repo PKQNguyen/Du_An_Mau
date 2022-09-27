@@ -476,7 +476,10 @@
             </Property>
           </Properties>
           <Events>
+<<<<<<< HEAD
             <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="lblInfoFocusGained"/>
+=======
+>>>>>>> 95fa01414ef8999f7b1417b634202575f09a715c
             <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="lblInfoMouseClicked"/>
           </Events>
           <Constraints>
