@@ -7,9 +7,8 @@ package com.edusys.ui;
 
 /**
  *
- * @author HP
+ * @author admin
  */
-public class Phi {
-    String PhiMoi;
-    String test1;
+public class Cuong {
+    String cuong, hoa;
 }
